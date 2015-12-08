@@ -1,0 +1,43 @@
+113	Alo Doktorum Yanımda
+176	Alo Gürültü
+169	Alo Post
+158	Alo Sahil Güvenlik
+154	Alo Trafik
+170	Alo Turizm Bilgi
+175	Alo Tüketici
+179	Alo Valilik
+122	Ankesör Arıza
+153	BeyazMasa Alo 153
+118	Bilinmeyen Numaralar Danışma
+188	Cenaze Hizmetleri
+133	Çağrı
+181	Çevre Bilgi
+124	Data Arıza
+186	Elektrik Arıza
+141	Fono Tel
+187	Gaz Arıza
+112	Hızır Acil Servis
+146	İnternet Çevir Sesi
+156	Jandarma İmdat
+126	Kablo TV Arıza
+183	Kadın ve Sosyal Hizmetler
+168	Kodlu Arama
+166	Masal Müzik
+115	Milletlerarası Kayıt
+177	Orman Yangını İhbar
+155	Polis İmdat
+119	Posta Kodu Danışma
+184	Sağlık Danışma
+185	Su Arıza
+131	Şehirlerarası Kayıt
+121	Telefon Arıza
+163	Telekom Borç Sorma
+161	Telekom Hizmet Danışma
+123	Teleks Arıza
+145	TTNET
+135	Uyandırma
+171	Uyuşturucu Bilgi
+189	Vergi Danışma
+110	Yangın İmdat
+134	Yerinde Olmayan Abone
+114	Zehir Danışma

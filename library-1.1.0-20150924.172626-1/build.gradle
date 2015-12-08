@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('library-1.1.0-20150924.172626-1.aar'))

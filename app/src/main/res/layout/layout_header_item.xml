@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/police_button"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight=".5"
+            android:background="@drawable/police_button_style"
+            android:drawableLeft="@drawable/ic_polis"
+            android:gravity="center|center_vertical"
+            android:paddingLeft="8dp"
+            android:text="Polıs"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/ambulance_button"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight=".5"
+            android:background="@drawable/ambulance_button_style"
+            android:drawableLeft="@drawable/ic_ambulans"
+            android:gravity="center|center_vertical"
+            android:paddingLeft="8dp"
+            android:text="Ambulans"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="8dp">
+
+        <Button
+            android:id="@+id/fire_button"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight=".5"
+            android:background="@drawable/fire_button_style"
+            android:drawableLeft="@drawable/ic_itfaiye"
+            android:gravity="center|center_vertical"
+            android:paddingLeft="8dp"
+            android:text="ıtfaıye"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/jandarma_button"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight=".5"
+            android:background="@drawable/jandarma_button_style"
+            android:drawableLeft="@drawable/jandarma"
+            android:gravity="center|center_vertical"
+            android:paddingLeft="8dp"
+            android:text="jandarma"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1.5dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="24dp"
+        android:background="#c0c0c0" />
+
+</LinearLayout>

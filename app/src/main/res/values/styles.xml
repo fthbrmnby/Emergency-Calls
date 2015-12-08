@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#f44336</item>
+        <item name="colorPrimaryDark">#d32f2f</item>
+        <item name="colorButtonNormal">#2196f3</item>
+
+    </style>
+
+    <style name="PoliceButton" parent="Theme.AppCompat">
+        <item name="android:background">@drawable/police_button_style</item>
+        <!--<item name="colorButtonNormal">#f44336</item>-->
+    </style>
+
+    <style name="AmbulanceButton">
+        <item name="android:background">@drawable/ambulance_button_style</item>
+    </style>
+
+    <style name="FireButton">
+        <item name="android:background">@drawable/fire_button_style</item>
+    </style>
+
+</resources>
