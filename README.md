@@ -1,2 +1,2 @@
 # Emergency Calls
-Simple android app that contains emergency call numbers from Turkey. Under development.
+Simple Android app that contains emergency service numbers in Turkey.
